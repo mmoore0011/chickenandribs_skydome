@@ -19,11 +19,14 @@ the mesh as-is and does not override it with its own skybox.
 
 ## Installation
 
-**Option A — copy into your project**: copy the `SkyDome` folder into
-your Unity project's `Assets` folder; Unity compiles it automatically.
+**Option A — import the `.unitypackage`** (easiest): download the latest
+`.unitypackage` from this repo's
+[Releases page](https://github.com/mmoore0011/chickenandribs_skydome/releases/latest),
+then in Unity: **Assets → Import Package → Custom Package…** and select
+the downloaded file.
 
-**Option B — import the `.unitypackage`**: **Assets → Import Package →
-Custom Package…** and select `skydome.unitypackage`.
+**Option B — copy into your project**: copy the `SkyDome` folder into
+your Unity project's `Assets` folder; Unity compiles it automatically.
 
 ## Step-by-Step Instructions
 
